@@ -1,0 +1,3 @@
+/Users/zachariahrisheq/Desktop/Tom Mitchell ML/Naive Bayes/build/CMakeFiles/NaiveGuassianBayesClassifier.dir
+/Users/zachariahrisheq/Desktop/Tom Mitchell ML/Naive Bayes/build/CMakeFiles/edit_cache.dir
+/Users/zachariahrisheq/Desktop/Tom Mitchell ML/Naive Bayes/build/CMakeFiles/rebuild_cache.dir
